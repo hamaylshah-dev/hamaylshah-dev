@@ -9,6 +9,10 @@
 I'm passionate about building real-world projects in **Data Science**, **Web Development**, and **Electrical Engineering**.  
 I love solving problems, analyzing datasets, and creating dashboards and applications that provide real value.
 
+# 🔍 **SEO Keywords**
+**Frontend Developer Pakistan,Full Stack Developer Pakistan, React Developer Islamabad, Next.js Developer Pakistan, Electrical Engineering Student Portfolio, Power BI Developer Pakistan, Data Analyst Islamabad, Software Engineer Portfolio, GitHub Developer Islamabad, Hamayl Shah GitHub, React Developer Pakistan**
+
+---
 Email Me 👉 ✉️ **hamaylshah395@gmail.com** For Collaboration/Project or Anything Else. 😊😊</h3>
 
 <br/>
